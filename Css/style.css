@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
 }
-body { 
 
 }
 header{
@@ -22,12 +21,11 @@ header{
 .icon{
     float: left;
     padding: 20px 20px;
-}
+
 .navbar{
     float: right;
     display: flex;
-    padding: 30px 10px;
-   
+    padding: 30px 10px;   
 }
 ul li{ 
     display: inline-block;
@@ -77,7 +75,6 @@ h1 {
     border: 1px solid black;
     width: 33.3333%
     height: auto;
-
 }
 section img{
     width: 200px; 
